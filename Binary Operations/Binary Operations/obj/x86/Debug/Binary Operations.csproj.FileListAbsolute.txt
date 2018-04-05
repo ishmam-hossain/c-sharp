@@ -1,0 +1,4 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary Operations\bin\Debug\Binary Operations.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary Operations\bin\Debug\Binary Operations.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary Operations\obj\x86\Debug\Binary Operations.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary Operations\obj\x86\Debug\Binary Operations.pdb

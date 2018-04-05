@@ -1,0 +1,4 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary to Decimal\bin\Debug\Binary to Decimal.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary to Decimal\bin\Debug\Binary to Decimal.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary to Decimal\obj\x86\Debug\Binary to Decimal.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Binary to Decimal\obj\x86\Debug\Binary to Decimal.pdb

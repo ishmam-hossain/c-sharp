@@ -1,0 +1,4 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\UniversityManagementSystem\bin\Debug\UniversityManagementSystem.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\UniversityManagementSystem\obj\x86\Debug\UniversityManagementSystem.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\UniversityManagementSystem\obj\x86\Debug\UniversityManagementSystem.pdb

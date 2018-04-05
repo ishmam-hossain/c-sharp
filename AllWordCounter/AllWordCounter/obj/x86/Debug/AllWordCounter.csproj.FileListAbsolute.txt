@@ -1,0 +1,8 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\AllWordCounter\bin\Debug\AllWordCounter.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\AllWordCounter\bin\Debug\AllWordCounter.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\AllWordCounter\obj\x86\Debug\AllWordCounter.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\AllWordCounter\obj\x86\Debug\AllWordCounter.pdb
+G:\C#\AllWordCounter\AllWordCounter\obj\x86\Debug\AllWordCounter.exe
+G:\C#\AllWordCounter\AllWordCounter\obj\x86\Debug\AllWordCounter.pdb
+G:\C#\AllWordCounter\AllWordCounter\bin\Debug\AllWordCounter.exe
+G:\C#\AllWordCounter\AllWordCounter\bin\Debug\AllWordCounter.pdb

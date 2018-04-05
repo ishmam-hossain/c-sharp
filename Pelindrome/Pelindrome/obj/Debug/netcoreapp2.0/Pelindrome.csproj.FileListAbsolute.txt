@@ -1,0 +1,11 @@
+G:\C#\Pelindrome\Pelindrome\bin\Debug\netcoreapp2.0\Pelindrome.deps.json
+G:\C#\Pelindrome\Pelindrome\bin\Debug\netcoreapp2.0\Pelindrome.runtimeconfig.json
+G:\C#\Pelindrome\Pelindrome\bin\Debug\netcoreapp2.0\Pelindrome.runtimeconfig.dev.json
+G:\C#\Pelindrome\Pelindrome\bin\Debug\netcoreapp2.0\Pelindrome.dll
+G:\C#\Pelindrome\Pelindrome\bin\Debug\netcoreapp2.0\Pelindrome.pdb
+G:\C#\Pelindrome\Pelindrome\obj\Debug\netcoreapp2.0\Pelindrome.csprojResolveAssemblyReference.cache
+G:\C#\Pelindrome\Pelindrome\obj\Debug\netcoreapp2.0\Pelindrome.csproj.CoreCompileInputs.cache
+G:\C#\Pelindrome\Pelindrome\obj\Debug\netcoreapp2.0\Pelindrome.AssemblyInfoInputs.cache
+G:\C#\Pelindrome\Pelindrome\obj\Debug\netcoreapp2.0\Pelindrome.AssemblyInfo.cs
+G:\C#\Pelindrome\Pelindrome\obj\Debug\netcoreapp2.0\Pelindrome.dll
+G:\C#\Pelindrome\Pelindrome\obj\Debug\netcoreapp2.0\Pelindrome.pdb

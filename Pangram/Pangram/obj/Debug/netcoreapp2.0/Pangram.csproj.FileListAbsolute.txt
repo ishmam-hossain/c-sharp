@@ -1,0 +1,11 @@
+G:\C#\Pangram\Pangram\bin\Debug\netcoreapp2.0\Pangram.deps.json
+G:\C#\Pangram\Pangram\bin\Debug\netcoreapp2.0\Pangram.runtimeconfig.json
+G:\C#\Pangram\Pangram\bin\Debug\netcoreapp2.0\Pangram.runtimeconfig.dev.json
+G:\C#\Pangram\Pangram\bin\Debug\netcoreapp2.0\Pangram.dll
+G:\C#\Pangram\Pangram\bin\Debug\netcoreapp2.0\Pangram.pdb
+G:\C#\Pangram\Pangram\obj\Debug\netcoreapp2.0\Pangram.csproj.CoreCompileInputs.cache
+G:\C#\Pangram\Pangram\obj\Debug\netcoreapp2.0\Pangram.AssemblyInfoInputs.cache
+G:\C#\Pangram\Pangram\obj\Debug\netcoreapp2.0\Pangram.AssemblyInfo.cs
+G:\C#\Pangram\Pangram\obj\Debug\netcoreapp2.0\Pangram.dll
+G:\C#\Pangram\Pangram\obj\Debug\netcoreapp2.0\Pangram.pdb
+G:\C#\Pangram\Pangram\obj\Debug\netcoreapp2.0\Pangram.csprojResolveAssemblyReference.cache

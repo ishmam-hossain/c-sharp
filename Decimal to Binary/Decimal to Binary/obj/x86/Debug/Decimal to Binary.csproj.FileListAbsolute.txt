@@ -1,0 +1,4 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Decimal to Binary\bin\Debug\Decimal to Binary.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Decimal to Binary\bin\Debug\Decimal to Binary.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Decimal to Binary\obj\x86\Debug\Decimal to Binary.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Decimal to Binary\obj\x86\Debug\Decimal to Binary.pdb

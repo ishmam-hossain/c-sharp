@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EveryElementsReversed", "EveryElementsReversed\EveryElementsReversed.csproj", "{651DA6A8-A7A1-4F92-A009-87A29E45B486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651DA6A8-A7A1-4F92-A009-87A29E45B486}.Debug|x86.ActiveCfg = Debug|x86
+		{651DA6A8-A7A1-4F92-A009-87A29E45B486}.Debug|x86.Build.0 = Debug|x86
+		{651DA6A8-A7A1-4F92-A009-87A29E45B486}.Release|x86.ActiveCfg = Release|x86
+		{651DA6A8-A7A1-4F92-A009-87A29E45B486}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

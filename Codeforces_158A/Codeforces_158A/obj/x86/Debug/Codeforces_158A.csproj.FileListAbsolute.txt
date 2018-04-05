@@ -1,0 +1,4 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Codeforces_158A\bin\Debug\Codeforces_158A.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Codeforces_158A\bin\Debug\Codeforces_158A.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Codeforces_158A\obj\x86\Debug\Codeforces_158A.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\Codeforces_158A\obj\x86\Debug\Codeforces_158A.pdb

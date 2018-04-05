@@ -1,0 +1,4 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\FileReadOpearations\bin\Debug\FileReadOpearations.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\FileReadOpearations\bin\Debug\FileReadOpearations.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\FileReadOpearations\obj\x86\Debug\FileReadOpearations.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\FileReadOpearations\obj\x86\Debug\FileReadOpearations.pdb
