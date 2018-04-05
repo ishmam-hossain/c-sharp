@@ -1,0 +1,9 @@
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\bin\TestWebSite.dll.config
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\bin\TestWebSite.dll
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\bin\TestWebSite.pdb
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\obj\Debug\TestWebSite.csprojResolveAssemblyReference.cache
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\obj\Debug\TestWebSite.csproj.CoreCompileInputs.cache
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\obj\Debug\TestWebSite.dll
+G:\MyWorkSpace\Asp.Net Projects\TestWebSite\TestWebSite\obj\Debug\TestWebSite.pdb
