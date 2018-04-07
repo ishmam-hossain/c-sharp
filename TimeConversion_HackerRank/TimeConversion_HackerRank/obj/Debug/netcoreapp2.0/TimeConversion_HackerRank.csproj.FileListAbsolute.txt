@@ -1,0 +1,11 @@
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\bin\Debug\netcoreapp2.0\TimeConversion_HackerRank.deps.json
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\bin\Debug\netcoreapp2.0\TimeConversion_HackerRank.runtimeconfig.json
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\bin\Debug\netcoreapp2.0\TimeConversion_HackerRank.runtimeconfig.dev.json
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\bin\Debug\netcoreapp2.0\TimeConversion_HackerRank.dll
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\bin\Debug\netcoreapp2.0\TimeConversion_HackerRank.pdb
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\obj\Debug\netcoreapp2.0\TimeConversion_HackerRank.csprojResolveAssemblyReference.cache
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\obj\Debug\netcoreapp2.0\TimeConversion_HackerRank.csproj.CoreCompileInputs.cache
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\obj\Debug\netcoreapp2.0\TimeConversion_HackerRank.AssemblyInfoInputs.cache
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\obj\Debug\netcoreapp2.0\TimeConversion_HackerRank.AssemblyInfo.cs
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\obj\Debug\netcoreapp2.0\TimeConversion_HackerRank.dll
+G:\MyWorkSpace\Asp.Net Projects\TimeConversion_HackerRank\TimeConversion_HackerRank\obj\Debug\netcoreapp2.0\TimeConversion_HackerRank.pdb

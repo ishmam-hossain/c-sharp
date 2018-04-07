@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search A Closest Vlaue In A Sorted Array", "Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array.csproj", "{070C2ED2-1E75-47ED-86F1-50E2D7E38757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070C2ED2-1E75-47ED-86F1-50E2D7E38757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070C2ED2-1E75-47ED-86F1-50E2D7E38757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070C2ED2-1E75-47ED-86F1-50E2D7E38757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070C2ED2-1E75-47ED-86F1-50E2D7E38757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C971D1A8-4EF3-44FC-8DB1-620258562C86}
+	EndGlobalSection
+EndGlobal

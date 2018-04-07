@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\bin\Debug\netcoreapp2.0\InterviewPrograms.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\bin\Debug\netcoreapp2.0\InterviewPrograms.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\bin\Debug\netcoreapp2.0\InterviewPrograms.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\bin\Debug\netcoreapp2.0\InterviewPrograms.dll
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\bin\Debug\netcoreapp2.0\InterviewPrograms.pdb
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\obj\Debug\netcoreapp2.0\InterviewPrograms.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\obj\Debug\netcoreapp2.0\InterviewPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\obj\Debug\netcoreapp2.0\InterviewPrograms.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\obj\Debug\netcoreapp2.0\InterviewPrograms.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\obj\Debug\netcoreapp2.0\InterviewPrograms.dll
+C:\Users\Ishmam Tonmoy\source\repos\InterviewPrograms\InterviewPrograms\obj\Debug\netcoreapp2.0\InterviewPrograms.pdb

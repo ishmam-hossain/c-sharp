@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.0\Anagram.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.0\Anagram.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.0\Anagram.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.0\Anagram.dll
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\bin\Debug\netcoreapp2.0\Anagram.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.0\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.0\Anagram.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.0\Anagram.dll
+C:\Users\Ishmam Tonmoy\source\repos\Anagram\Anagram\obj\Debug\netcoreapp2.0\Anagram.pdb

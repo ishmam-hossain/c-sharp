@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\bin\Debug\netcoreapp2.0\looptest.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\bin\Debug\netcoreapp2.0\looptest.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\bin\Debug\netcoreapp2.0\looptest.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\bin\Debug\netcoreapp2.0\looptest.dll
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\bin\Debug\netcoreapp2.0\looptest.pdb
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\obj\Debug\netcoreapp2.0\looptest.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\obj\Debug\netcoreapp2.0\looptest.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\obj\Debug\netcoreapp2.0\looptest.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\obj\Debug\netcoreapp2.0\looptest.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\obj\Debug\netcoreapp2.0\looptest.dll
+C:\Users\Ishmam Tonmoy\source\repos\looptest\looptest\obj\Debug\netcoreapp2.0\looptest.pdb

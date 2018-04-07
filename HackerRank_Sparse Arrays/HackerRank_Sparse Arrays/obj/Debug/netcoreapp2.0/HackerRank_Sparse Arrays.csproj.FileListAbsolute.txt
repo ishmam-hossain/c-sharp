@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\bin\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\bin\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\bin\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\bin\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\bin\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.pdb
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\obj\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\obj\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\obj\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\obj\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\obj\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Sparse Arrays\HackerRank_Sparse Arrays\obj\Debug\netcoreapp2.0\HackerRank_Sparse Arrays.pdb

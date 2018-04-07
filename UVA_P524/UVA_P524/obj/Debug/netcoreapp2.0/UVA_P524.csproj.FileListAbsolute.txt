@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\obj\Debug\netcoreapp2.0\UVA_P524.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\obj\Debug\netcoreapp2.0\UVA_P524.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\obj\Debug\netcoreapp2.0\UVA_P524.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\obj\Debug\netcoreapp2.0\UVA_P524.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\bin\Debug\netcoreapp2.0\UVA_P524.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\bin\Debug\netcoreapp2.0\UVA_P524.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\bin\Debug\netcoreapp2.0\UVA_P524.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\bin\Debug\netcoreapp2.0\UVA_P524.dll
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\bin\Debug\netcoreapp2.0\UVA_P524.pdb
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\obj\Debug\netcoreapp2.0\UVA_P524.dll
+C:\Users\Ishmam Tonmoy\source\repos\UVA_P524\UVA_P524\obj\Debug\netcoreapp2.0\UVA_P524.pdb

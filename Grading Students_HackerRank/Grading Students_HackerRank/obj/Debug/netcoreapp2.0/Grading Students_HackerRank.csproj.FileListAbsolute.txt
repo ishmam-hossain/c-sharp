@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\bin\Debug\netcoreapp2.0\Grading Students_HackerRank.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\bin\Debug\netcoreapp2.0\Grading Students_HackerRank.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\bin\Debug\netcoreapp2.0\Grading Students_HackerRank.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\bin\Debug\netcoreapp2.0\Grading Students_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\bin\Debug\netcoreapp2.0\Grading Students_HackerRank.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\obj\Debug\netcoreapp2.0\Grading Students_HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\obj\Debug\netcoreapp2.0\Grading Students_HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\obj\Debug\netcoreapp2.0\Grading Students_HackerRank.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\obj\Debug\netcoreapp2.0\Grading Students_HackerRank.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\obj\Debug\netcoreapp2.0\Grading Students_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\Grading Students_HackerRank\Grading Students_HackerRank\obj\Debug\netcoreapp2.0\Grading Students_HackerRank.pdb

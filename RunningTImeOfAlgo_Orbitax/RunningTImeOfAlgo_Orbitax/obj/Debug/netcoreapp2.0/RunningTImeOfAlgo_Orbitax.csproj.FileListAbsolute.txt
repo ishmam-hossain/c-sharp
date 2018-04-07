@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\bin\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\bin\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\bin\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\bin\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\bin\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.pdb
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\obj\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\obj\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\obj\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\obj\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\obj\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\RunningTImeOfAlgo_Orbitax\RunningTImeOfAlgo_Orbitax\obj\Debug\netcoreapp2.0\RunningTImeOfAlgo_Orbitax.pdb

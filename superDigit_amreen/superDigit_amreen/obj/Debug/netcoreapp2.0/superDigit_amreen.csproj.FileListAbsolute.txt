@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\bin\Debug\netcoreapp2.0\superDigit_amreen.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\bin\Debug\netcoreapp2.0\superDigit_amreen.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\bin\Debug\netcoreapp2.0\superDigit_amreen.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\bin\Debug\netcoreapp2.0\superDigit_amreen.dll
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\bin\Debug\netcoreapp2.0\superDigit_amreen.pdb
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\obj\Debug\netcoreapp2.0\superDigit_amreen.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\obj\Debug\netcoreapp2.0\superDigit_amreen.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\obj\Debug\netcoreapp2.0\superDigit_amreen.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\obj\Debug\netcoreapp2.0\superDigit_amreen.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\obj\Debug\netcoreapp2.0\superDigit_amreen.dll
+C:\Users\Ishmam Tonmoy\source\repos\superDigit_amreen\superDigit_amreen\obj\Debug\netcoreapp2.0\superDigit_amreen.pdb

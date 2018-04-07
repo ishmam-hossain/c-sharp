@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\bin\Debug\netcoreapp2.0\IceCreamParlor_orbitax.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\bin\Debug\netcoreapp2.0\IceCreamParlor_orbitax.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\bin\Debug\netcoreapp2.0\IceCreamParlor_orbitax.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\bin\Debug\netcoreapp2.0\IceCreamParlor_orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\bin\Debug\netcoreapp2.0\IceCreamParlor_orbitax.pdb
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\obj\Debug\netcoreapp2.0\IceCreamParlor_orbitax.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\obj\Debug\netcoreapp2.0\IceCreamParlor_orbitax.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\obj\Debug\netcoreapp2.0\IceCreamParlor_orbitax.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\obj\Debug\netcoreapp2.0\IceCreamParlor_orbitax.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\obj\Debug\netcoreapp2.0\IceCreamParlor_orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\IceCreamParlor_orbitax\IceCreamParlor_orbitax\obj\Debug\netcoreapp2.0\IceCreamParlor_orbitax.pdb

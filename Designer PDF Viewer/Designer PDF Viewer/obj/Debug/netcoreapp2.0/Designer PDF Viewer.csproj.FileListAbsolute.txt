@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\bin\Debug\netcoreapp2.0\Designer PDF Viewer.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\bin\Debug\netcoreapp2.0\Designer PDF Viewer.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\bin\Debug\netcoreapp2.0\Designer PDF Viewer.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\bin\Debug\netcoreapp2.0\Designer PDF Viewer.dll
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\bin\Debug\netcoreapp2.0\Designer PDF Viewer.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\obj\Debug\netcoreapp2.0\Designer PDF Viewer.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\obj\Debug\netcoreapp2.0\Designer PDF Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\obj\Debug\netcoreapp2.0\Designer PDF Viewer.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\obj\Debug\netcoreapp2.0\Designer PDF Viewer.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\obj\Debug\netcoreapp2.0\Designer PDF Viewer.dll
+C:\Users\Ishmam Tonmoy\source\repos\Designer PDF Viewer\Designer PDF Viewer\obj\Debug\netcoreapp2.0\Designer PDF Viewer.pdb

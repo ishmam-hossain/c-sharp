@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\bin\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\bin\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\bin\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\bin\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.dll
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\bin\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\obj\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\obj\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\obj\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\obj\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\obj\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.dll
+C:\Users\Ishmam Tonmoy\source\repos\Search A Closest Vlaue In A Sorted Array\Search A Closest Vlaue In A Sorted Array\obj\Debug\netcoreapp2.0\Search A Closest Vlaue In A Sorted Array.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\bin\Debug\netcoreapp2.0\SuperDigit_Orbitax.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\bin\Debug\netcoreapp2.0\SuperDigit_Orbitax.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\bin\Debug\netcoreapp2.0\SuperDigit_Orbitax.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\bin\Debug\netcoreapp2.0\SuperDigit_Orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\bin\Debug\netcoreapp2.0\SuperDigit_Orbitax.pdb
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\obj\Debug\netcoreapp2.0\SuperDigit_Orbitax.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\obj\Debug\netcoreapp2.0\SuperDigit_Orbitax.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\obj\Debug\netcoreapp2.0\SuperDigit_Orbitax.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\obj\Debug\netcoreapp2.0\SuperDigit_Orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\obj\Debug\netcoreapp2.0\SuperDigit_Orbitax.pdb
+C:\Users\Ishmam Tonmoy\source\repos\SuperDigit_Orbitax\SuperDigit_Orbitax\obj\Debug\netcoreapp2.0\SuperDigit_Orbitax.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\bin\Debug\netcoreapp2.0\EvenSumOfArraay.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\bin\Debug\netcoreapp2.0\EvenSumOfArraay.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\bin\Debug\netcoreapp2.0\EvenSumOfArraay.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\bin\Debug\netcoreapp2.0\EvenSumOfArraay.dll
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\bin\Debug\netcoreapp2.0\EvenSumOfArraay.pdb
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\obj\Debug\netcoreapp2.0\EvenSumOfArraay.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\obj\Debug\netcoreapp2.0\EvenSumOfArraay.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\obj\Debug\netcoreapp2.0\EvenSumOfArraay.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\obj\Debug\netcoreapp2.0\EvenSumOfArraay.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\obj\Debug\netcoreapp2.0\EvenSumOfArraay.dll
+C:\Users\Ishmam Tonmoy\source\repos\EvenSumOfArraay\EvenSumOfArraay\obj\Debug\netcoreapp2.0\EvenSumOfArraay.pdb

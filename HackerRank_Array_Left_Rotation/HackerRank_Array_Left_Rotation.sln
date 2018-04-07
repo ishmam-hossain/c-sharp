@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank_Array_Left_Rotation", "HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation.csproj", "{870B8F12-4055-4662-B019-6B476FCC987D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870B8F12-4055-4662-B019-6B476FCC987D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870B8F12-4055-4662-B019-6B476FCC987D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870B8F12-4055-4662-B019-6B476FCC987D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870B8F12-4055-4662-B019-6B476FCC987D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F16E3FB-A913-4E2C-992F-4D81771C4D6C}
+	EndGlobalSection
+EndGlobal

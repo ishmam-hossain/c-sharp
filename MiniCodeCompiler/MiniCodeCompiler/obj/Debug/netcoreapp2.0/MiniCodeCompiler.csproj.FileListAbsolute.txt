@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\bin\Debug\netcoreapp2.0\MiniCodeCompiler.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\bin\Debug\netcoreapp2.0\MiniCodeCompiler.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\bin\Debug\netcoreapp2.0\MiniCodeCompiler.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\bin\Debug\netcoreapp2.0\MiniCodeCompiler.dll
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\bin\Debug\netcoreapp2.0\MiniCodeCompiler.pdb
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\obj\Debug\netcoreapp2.0\MiniCodeCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\obj\Debug\netcoreapp2.0\MiniCodeCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\obj\Debug\netcoreapp2.0\MiniCodeCompiler.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\obj\Debug\netcoreapp2.0\MiniCodeCompiler.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\obj\Debug\netcoreapp2.0\MiniCodeCompiler.dll
+C:\Users\Ishmam Tonmoy\source\repos\MiniCodeCompiler\MiniCodeCompiler\obj\Debug\netcoreapp2.0\MiniCodeCompiler.pdb

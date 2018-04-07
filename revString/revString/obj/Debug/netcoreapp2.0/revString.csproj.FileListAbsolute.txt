@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\bin\Debug\netcoreapp2.0\revString.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\bin\Debug\netcoreapp2.0\revString.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\bin\Debug\netcoreapp2.0\revString.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\bin\Debug\netcoreapp2.0\revString.dll
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\bin\Debug\netcoreapp2.0\revString.pdb
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\obj\Debug\netcoreapp2.0\revString.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\obj\Debug\netcoreapp2.0\revString.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\obj\Debug\netcoreapp2.0\revString.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\obj\Debug\netcoreapp2.0\revString.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\obj\Debug\netcoreapp2.0\revString.dll
+C:\Users\Ishmam Tonmoy\source\repos\revString\revString\obj\Debug\netcoreapp2.0\revString.pdb

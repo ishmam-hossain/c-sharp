@@ -1,0 +1,10 @@
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\bin\Debug\CPU and RAM.exe.config
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\bin\Debug\CPU and RAM.exe
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\bin\Debug\CPU and RAM.pdb
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU and RAM.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU_and_RAM.CPU_RAM.resources
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU_and_RAM.Properties.Resources.resources
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU and RAM.csproj.GenerateResource.Cache
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU and RAM.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU and RAM.exe
+C:\Users\Ishmam Tonmoy\source\repos\CPU and RAM\CPU and RAM\obj\Debug\CPU and RAM.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\bin\Debug\netcoreapp2.0\reverseNu.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\bin\Debug\netcoreapp2.0\reverseNu.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\bin\Debug\netcoreapp2.0\reverseNu.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\bin\Debug\netcoreapp2.0\reverseNu.dll
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\bin\Debug\netcoreapp2.0\reverseNu.pdb
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\obj\Debug\netcoreapp2.0\reverseNu.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\obj\Debug\netcoreapp2.0\reverseNu.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\obj\Debug\netcoreapp2.0\reverseNu.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\obj\Debug\netcoreapp2.0\reverseNu.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\obj\Debug\netcoreapp2.0\reverseNu.dll
+C:\Users\Ishmam Tonmoy\source\repos\reverseNu\reverseNu\obj\Debug\netcoreapp2.0\reverseNu.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\bin\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\bin\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\bin\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\bin\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\bin\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.pdb
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\obj\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\obj\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\obj\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\obj\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\obj\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_SImple_Text_Editor\HackerRank_SImple_Text_Editor\obj\Debug\netcoreapp2.0\HackerRank_SImple_Text_Editor.pdb

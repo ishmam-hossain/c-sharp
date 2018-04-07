@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\obj\Debug\netcoreapp2.0\reduceString_Orbitax.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\obj\Debug\netcoreapp2.0\reduceString_Orbitax.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\obj\Debug\netcoreapp2.0\reduceString_Orbitax.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\obj\Debug\netcoreapp2.0\reduceString_Orbitax.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\bin\Debug\netcoreapp2.0\reduceString_Orbitax.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\bin\Debug\netcoreapp2.0\reduceString_Orbitax.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\bin\Debug\netcoreapp2.0\reduceString_Orbitax.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\bin\Debug\netcoreapp2.0\reduceString_Orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\bin\Debug\netcoreapp2.0\reduceString_Orbitax.pdb
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\obj\Debug\netcoreapp2.0\reduceString_Orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\reduceString_Orbitax\reduceString_Orbitax\obj\Debug\netcoreapp2.0\reduceString_Orbitax.pdb

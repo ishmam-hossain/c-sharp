@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\bin\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\bin\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\bin\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\bin\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\bin\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.pdb
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\obj\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\obj\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\obj\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\obj\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\obj\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Array_Left_Rotation\HackerRank_Array_Left_Rotation\obj\Debug\netcoreapp2.0\HackerRank_Array_Left_Rotation.pdb

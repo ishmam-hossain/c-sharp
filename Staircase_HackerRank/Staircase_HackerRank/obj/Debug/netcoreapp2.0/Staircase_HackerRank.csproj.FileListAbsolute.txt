@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\bin\Debug\netcoreapp2.0\Staircase_HackerRank.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\bin\Debug\netcoreapp2.0\Staircase_HackerRank.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\bin\Debug\netcoreapp2.0\Staircase_HackerRank.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\bin\Debug\netcoreapp2.0\Staircase_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\bin\Debug\netcoreapp2.0\Staircase_HackerRank.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\obj\Debug\netcoreapp2.0\Staircase_HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\obj\Debug\netcoreapp2.0\Staircase_HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\obj\Debug\netcoreapp2.0\Staircase_HackerRank.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\obj\Debug\netcoreapp2.0\Staircase_HackerRank.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\obj\Debug\netcoreapp2.0\Staircase_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\Staircase_HackerRank\Staircase_HackerRank\obj\Debug\netcoreapp2.0\Staircase_HackerRank.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\bin\Debug\netcoreapp2.0\Find Digits.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\bin\Debug\netcoreapp2.0\Find Digits.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\bin\Debug\netcoreapp2.0\Find Digits.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\bin\Debug\netcoreapp2.0\Find Digits.dll
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\bin\Debug\netcoreapp2.0\Find Digits.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\obj\Debug\netcoreapp2.0\Find Digits.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\obj\Debug\netcoreapp2.0\Find Digits.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\obj\Debug\netcoreapp2.0\Find Digits.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\obj\Debug\netcoreapp2.0\Find Digits.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\obj\Debug\netcoreapp2.0\Find Digits.dll
+C:\Users\Ishmam Tonmoy\source\repos\Find Digits\Find Digits\obj\Debug\netcoreapp2.0\Find Digits.pdb

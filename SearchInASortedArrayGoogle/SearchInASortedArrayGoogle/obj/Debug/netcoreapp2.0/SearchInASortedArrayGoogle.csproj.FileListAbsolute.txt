@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\bin\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\bin\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\bin\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\bin\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.dll
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\bin\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.pdb
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\obj\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\obj\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\obj\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\obj\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\obj\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.dll
+C:\Users\Ishmam Tonmoy\source\repos\SearchInASortedArrayGoogle\SearchInASortedArrayGoogle\obj\Debug\netcoreapp2.0\SearchInASortedArrayGoogle.pdb

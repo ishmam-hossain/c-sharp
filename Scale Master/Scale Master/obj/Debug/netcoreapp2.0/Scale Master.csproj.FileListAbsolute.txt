@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\bin\Debug\netcoreapp2.0\Scale Master.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\bin\Debug\netcoreapp2.0\Scale Master.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\bin\Debug\netcoreapp2.0\Scale Master.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\bin\Debug\netcoreapp2.0\Scale Master.dll
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\bin\Debug\netcoreapp2.0\Scale Master.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\obj\Debug\netcoreapp2.0\Scale Master.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\obj\Debug\netcoreapp2.0\Scale Master.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\obj\Debug\netcoreapp2.0\Scale Master.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\obj\Debug\netcoreapp2.0\Scale Master.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\obj\Debug\netcoreapp2.0\Scale Master.dll
+C:\Users\Ishmam Tonmoy\source\repos\Scale Master\Scale Master\obj\Debug\netcoreapp2.0\Scale Master.pdb

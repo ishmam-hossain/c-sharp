@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\bin\Debug\netcoreapp2.0\MissingNumbers_HackerRank.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\bin\Debug\netcoreapp2.0\MissingNumbers_HackerRank.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\bin\Debug\netcoreapp2.0\MissingNumbers_HackerRank.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\bin\Debug\netcoreapp2.0\MissingNumbers_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\bin\Debug\netcoreapp2.0\MissingNumbers_HackerRank.pdb
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\obj\Debug\netcoreapp2.0\MissingNumbers_HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\obj\Debug\netcoreapp2.0\MissingNumbers_HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\obj\Debug\netcoreapp2.0\MissingNumbers_HackerRank.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\obj\Debug\netcoreapp2.0\MissingNumbers_HackerRank.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\obj\Debug\netcoreapp2.0\MissingNumbers_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\MissingNumbers_HackerRank\MissingNumbers_HackerRank\obj\Debug\netcoreapp2.0\MissingNumbers_HackerRank.pdb

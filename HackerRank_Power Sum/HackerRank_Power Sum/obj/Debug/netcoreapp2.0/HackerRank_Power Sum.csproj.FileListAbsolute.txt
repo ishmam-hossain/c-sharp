@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\bin\Debug\netcoreapp2.0\HackerRank_Power Sum.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\bin\Debug\netcoreapp2.0\HackerRank_Power Sum.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\bin\Debug\netcoreapp2.0\HackerRank_Power Sum.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\bin\Debug\netcoreapp2.0\HackerRank_Power Sum.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\bin\Debug\netcoreapp2.0\HackerRank_Power Sum.pdb
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\obj\Debug\netcoreapp2.0\HackerRank_Power Sum.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\obj\Debug\netcoreapp2.0\HackerRank_Power Sum.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\obj\Debug\netcoreapp2.0\HackerRank_Power Sum.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\obj\Debug\netcoreapp2.0\HackerRank_Power Sum.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\obj\Debug\netcoreapp2.0\HackerRank_Power Sum.dll
+C:\Users\Ishmam Tonmoy\source\repos\HackerRank_Power Sum\HackerRank_Power Sum\obj\Debug\netcoreapp2.0\HackerRank_Power Sum.pdb

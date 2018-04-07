@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\bin\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\bin\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\bin\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\bin\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.dll
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\bin\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.pdb
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\obj\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\obj\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\obj\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\obj\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\obj\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.dll
+C:\Users\Ishmam Tonmoy\source\repos\Divisible_Sum_Pairs_Hackerrank\Divisible_Sum_Pairs_Hackerrank\obj\Debug\netcoreapp2.0\Divisible_Sum_Pairs_Hackerrank.pdb

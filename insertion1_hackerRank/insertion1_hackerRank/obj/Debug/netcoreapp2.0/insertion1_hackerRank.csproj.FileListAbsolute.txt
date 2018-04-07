@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\bin\Debug\netcoreapp2.0\insertion1_hackerRank.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\bin\Debug\netcoreapp2.0\insertion1_hackerRank.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\bin\Debug\netcoreapp2.0\insertion1_hackerRank.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\bin\Debug\netcoreapp2.0\insertion1_hackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\bin\Debug\netcoreapp2.0\insertion1_hackerRank.pdb
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\obj\Debug\netcoreapp2.0\insertion1_hackerRank.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\obj\Debug\netcoreapp2.0\insertion1_hackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\obj\Debug\netcoreapp2.0\insertion1_hackerRank.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\obj\Debug\netcoreapp2.0\insertion1_hackerRank.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\obj\Debug\netcoreapp2.0\insertion1_hackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\insertion1_hackerRank\insertion1_hackerRank\obj\Debug\netcoreapp2.0\insertion1_hackerRank.pdb

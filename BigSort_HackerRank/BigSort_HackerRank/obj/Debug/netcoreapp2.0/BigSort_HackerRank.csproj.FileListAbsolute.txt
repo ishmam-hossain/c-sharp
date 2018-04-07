@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\bin\Debug\netcoreapp2.0\BigSort_HackerRank.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\bin\Debug\netcoreapp2.0\BigSort_HackerRank.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\bin\Debug\netcoreapp2.0\BigSort_HackerRank.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\bin\Debug\netcoreapp2.0\BigSort_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\bin\Debug\netcoreapp2.0\BigSort_HackerRank.pdb
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\obj\Debug\netcoreapp2.0\BigSort_HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\obj\Debug\netcoreapp2.0\BigSort_HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\obj\Debug\netcoreapp2.0\BigSort_HackerRank.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\obj\Debug\netcoreapp2.0\BigSort_HackerRank.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\obj\Debug\netcoreapp2.0\BigSort_HackerRank.dll
+C:\Users\Ishmam Tonmoy\source\repos\BigSort_HackerRank\BigSort_HackerRank\obj\Debug\netcoreapp2.0\BigSort_HackerRank.pdb

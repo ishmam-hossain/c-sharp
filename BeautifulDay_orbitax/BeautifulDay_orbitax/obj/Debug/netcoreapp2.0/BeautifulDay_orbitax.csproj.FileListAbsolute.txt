@@ -1,0 +1,11 @@
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\bin\Debug\netcoreapp2.0\BeautifulDay_orbitax.deps.json
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\bin\Debug\netcoreapp2.0\BeautifulDay_orbitax.runtimeconfig.json
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\bin\Debug\netcoreapp2.0\BeautifulDay_orbitax.runtimeconfig.dev.json
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\bin\Debug\netcoreapp2.0\BeautifulDay_orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\bin\Debug\netcoreapp2.0\BeautifulDay_orbitax.pdb
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\obj\Debug\netcoreapp2.0\BeautifulDay_orbitax.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\obj\Debug\netcoreapp2.0\BeautifulDay_orbitax.csproj.CoreCompileInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\obj\Debug\netcoreapp2.0\BeautifulDay_orbitax.AssemblyInfoInputs.cache
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\obj\Debug\netcoreapp2.0\BeautifulDay_orbitax.AssemblyInfo.cs
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\obj\Debug\netcoreapp2.0\BeautifulDay_orbitax.dll
+C:\Users\Ishmam Tonmoy\source\repos\BeautifulDay_orbitax\BeautifulDay_orbitax\obj\Debug\netcoreapp2.0\BeautifulDay_orbitax.pdb
